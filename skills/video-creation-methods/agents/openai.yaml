@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Creation Methods"
+  short_description: "H3与Seedance分镜、动画、运镜及声音方法，按模型加载参考"
+  default_prompt: "Use $video-creation-methods to improve this shot for my selected video model while preserving my story and assets."
