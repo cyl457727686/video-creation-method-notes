@@ -1,0 +1,19 @@
+# This repository is intentionally documentation-only.
+.env
+.env.*
+*.pem
+*.key
+*cookies*
+**/.private_state.json*
+__pycache__/
+*.pyc
+.venv/
+research/
+audio_backend/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.zip
+.DS_Store
+Thumbs.db
